@@ -4,3 +4,6 @@
     - https://geph.io/zhs
 
 2. 打开这个压缩包，包含 Windows 版本和 Android 版本
+
+3. ClashX
+4. AppCodeSign.apk
